@@ -9,13 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
 
-Work experience
+* B.Eng. in Measurement, Control Technology and Instruments, Tsinghua University, 2020
+* M.S. in Systems, Control and Robotics, KTH Royal Institute of Technology, 2022 (expected)
+
+## Courses
+
+
+| Code   | Name | Grade   |
+| ------    | ------- | ------ |
+| [DD2410](#) | Introduction to Robotics | ? |
+| [DD2419](#) | Project Course in Robotics and Autonomous Systems | ? |
+| [DD2423](#) | Image Analysis and Computer Vision | ? |
+| [DD2424](#) | Deep Learning in Data Science | ? |
+| [DD2480](#) | Software Engineering Fundamentals | ? |
+| [EL2320](#) | Applied Estimation | ? |
+| [EL2520](#) | Control Theory and Practice, Advanced Course | ? |
+| [EL2820](#) | Modelling of Dynamical Systems | ? |
+
+<!--
+* DD2410 Introduction to Robotics
+* DD2419 Project Course in Robotics and Autonomous Systems
+* DD2423 Image Analysis and Computer Vision
+* DD2424 Deep Learning in Data Science
+* DD2480 Software Engineering Fundamentals
+
+* EL2320 Applied Estimation
+* EL2520 Control Theory and Practice, Advanced Course
+* EL2820 Modelling of Dynamical Systems
+-->
+
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +81,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
